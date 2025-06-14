@@ -1,5 +1,6 @@
-function greetUser(username) {
-  return greetMessage = ('안녕하세요! ' + username + '님. ' + '좋은 하루 되세요!')
+function greetUser(userName) {
+  return (greetMessage =
+    "안녕하세요! " + userName + "님. " + "좋은 하루 되세요!");
 }
 
-greetUser('남일쒸')
+console.log(greetUser("남일쒸"));

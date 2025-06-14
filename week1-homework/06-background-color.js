@@ -1,4 +1,4 @@
- const BACKGROUND_COLOR = '#121212'
+const BACKGROUND_COLOR = "#121212";
 // 2. const BACKGROUND_COLOR = rgb(255, 255, 255)
 
 // 색상은 헥스 코드 혹은 rgb값으로 지정할 수 있는데 첫번째는 헥스코드를 사용해 검은색을 표현했습니다.

@@ -10,6 +10,8 @@
 //   } else {
 //     return { 'score': score, 'grade': 'F', 'description': '낙제'};
 //   }
+//
+// console.log(decideGrade(87));
 // };
 
 // 1번째로 작성한 코드. 상수 선언 후 점수를 받을 매개변수를 지정하고 객체 값이 출력되도록 설정.
